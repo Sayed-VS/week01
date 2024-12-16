@@ -12,7 +12,7 @@ int main() {
     if(number1 < number2){
         printf("The bigger number is: %d\n", number2);
     }
-    else if(number2 > number1) {
+    else if(number1 > number2) {
         printf("The bigger number is: %d\n", number1);
     }
     else {
